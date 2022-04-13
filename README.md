@@ -8,3 +8,4 @@
 Cooluje/Cooluje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![survey page](https://user-images.githubusercontent.com/101343710/163216137-24b5dc0a-9990-484e-9b7a-43da83ea8fb1.png)
